@@ -1,6 +1,6 @@
 # Привет. Меня зовут Владимир
 
-<img src="img1.jpg" width="100" height="100" align="center">
+<img src="IMG1.jpg" width="100" height="100" align="center">
 
 
 ## Я учусь на инженера по тестированию программного обеспечения
